@@ -34,9 +34,14 @@ input{
    
 }
 
-/* 名前だけ被さってしまうので別枠で設定 */
+.no1{
+    position: relative;
+    left:5%;
+    /* padding-left: 40px; */
+}
+
+/* 名前の位置を固定 */
 .name1{
     position: absolute;
-    left:50%;
-
+    left:58%;
 }
