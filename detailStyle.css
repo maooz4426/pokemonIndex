@@ -1,0 +1,27 @@
+.pokemonDetail {
+    position: relative;
+    left: 80px;
+    width: 80%;
+}
+
+.name {
+    border-bottom: 1px solid silver;
+}
+
+.category, .content {
+    margin:0px;
+    padding-right:50px;
+    border-spacing: 0px;
+    border-bottom: 1px solid silver;
+    text-align: left;
+}
+
+.description {
+    margin-top: 50px;
+}
+
+
+
+  
+  
+

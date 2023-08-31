@@ -1,0 +1,42 @@
+body{
+    position: relative;
+    width: 80%;
+    left: 80px;
+}
+
+header{
+    font-size: 50px;
+    border-bottom: 1px solid silver;
+}
+
+.search{
+    padding-top: 10px;
+}
+
+input{
+    width:90%;
+}
+
+
+.pokemonItem{
+    display: flex;
+    border-bottom: 1px solid silver;
+}
+
+.no{
+    position: relative;
+    
+}
+
+.name{
+    position: absolute;
+    left: 50%; 
+   
+}
+
+/* 名前だけ被さってしまうので別枠で設定 */
+.name1{
+    position: absolute;
+    left:50%;
+
+}
